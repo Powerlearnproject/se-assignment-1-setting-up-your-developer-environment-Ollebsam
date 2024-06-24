@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/vbnbTt5m)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15240360&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
 
@@ -50,3 +52,60 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+# Setting Up Your Developer Environment
+
+## Assignment Overview
+This assignment aims to familiarize you with the tools and configurations necessary to set up an efficient developer environment for software engineering projects. Completing this assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
+
+## Deliverables
+1. **Setup Documentation**
+2. **GitHub Repository**
+3. **Reflection**
+
+## Setup Documentation
+This comprehensive document outlines the step-by-step process I followed to set up my developer environment. It includes the following sections:
+
+### Select Your Operating System (OS)
+- I chose to install Windows 11 as my operating system. I downloaded the Windows 11 installer from the official Microsoft website (https://www.microsoft.com/software-download/windows11) and followed the on-screen instructions to complete the installation.
+
+### Install a Text Editor or Integrated Development Environment (IDE)
+- For my text editor and IDE, I selected Visual Studio Code. I downloaded the latest version of Visual Studio Code from the official website (https://code.visualstudio.com/Download) and installed it on my machine.
+
+### Set Up Version Control System
+- I installed Git and configured it on my local machine. I also created a GitHub account (https://github.com) to host my repositories. I initialized a new Git repository for my project and made my first commit.
+
+### Install Necessary Programming Languages and Runtimes
+- I installed Python from the official website (http://www.python.org) as the programming language required for my project. I ensured that I had the necessary tools, such as compilers and interpreters, to build and execute my Python code.
+
+### Install Package Managers
+- I installed the Python package manager, pip, to help with managing and installing Python packages and dependencies.
+
+### Configure a Database (MySQL)
+- I downloaded and installed the MySQL database from the official website (https://dev.mysql.com/downloads/windows/installer/5.7.html). I configured the database and ensured that I could connect to it from my development environment.
+
+### Set Up Development Environments and Virtualization (Optional)
+- I decided to use Docker as a virtualization tool to create consistent development environments. I installed Docker on my machine and set up a Docker container for my project.
+
+### Explore Extensions and Plugins
+- I explored various extensions and plugins for Visual Studio Code to enhance my development workflow. I installed plugins for syntax highlighting, linting, code formatting, and version control integration.
+
+### Document Your Setup
+- Throughout the setup process, I carefully documented each step, including any configurations, customizations, and troubleshooting measures I took.
+
+The complete setup documentation can be found in the [setup-documentation.md](setup-documentation.md) file.
+
+## GitHub Repository
+
+## Reflection
+In the setup documentation, I have included a reflection section that discusses the challenges I faced during the setup process and the strategies I employed to overcome them. Some of the key challenges I encountered were:
+
+- Ensuring consistent development environments across different machines using Docker
+- Configuring the MySQL database connection and resolving any connectivity issues
+- Exploring and selecting the appropriate extensions and plugins for my development workflow
+
+## Submission
+I have made sure to complete this assignment by the specified deadline. Please let me know if you require any further information or have any questions.
+
+Thank you for the opportunity to set up my development environment. I look forward to your feedback.
